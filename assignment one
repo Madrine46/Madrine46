@@ -1,0 +1,17 @@
+public class details{
+public static void main(String args[]){
+System.out.println("BIT");
+System.out.println("Mercie");
+System.out.println("22/07479");
+System.out.println("15/1/2002");
+System.out.println("programmer");
+System.out.println("Java Script");
+
+System.out.println("BIT");
+System.out.println("Madrine");
+System.out.println("22/04746");
+System.out.println("6/8/2001");
+System.out.println("programmer");
+System.out.println("Java Script");
+}
+}
